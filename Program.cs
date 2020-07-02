@@ -190,8 +190,8 @@ namespace ConsoleApp1
             }
 
             Console.WriteLine("Esto es al pedo");
+               
         }
-
     }
 
     class Tablero
