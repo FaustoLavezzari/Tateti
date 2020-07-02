@@ -188,17 +188,6 @@ namespace ConsoleApp1
                 tablero.imprimirTablero();
                 Console.WriteLine("Empate, unos mancos");
             }
-
-
-
-
-
-
-
-
-
-
-
         }
     }
 
